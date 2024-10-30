@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["https://shout-60c7f.web.app", "http://localhost:port"],
+      "method": ["GET", "HEAD"],
+      "maxAgeSeconds": 3600
+    }
+  ]
